@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnydeveloper)](https://github.com/anuraghazra/github-readme-stats)
+### Sup guys, i'm Vinicius Oliveira 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnydeveloper&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnydeveloper&layout=compact&langs_count=7&theme=dracula)
 <!--
 **vinnydeveloper/vinnydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
